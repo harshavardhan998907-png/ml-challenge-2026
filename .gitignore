@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets & Caches (Over 100MB / Multi-GB)
+dataset/
+cache/
+output/
+final_submission.zip
+*.zip
+*.parquet
+*.tar.gz
+
+# OS generated files
+.DS_Store
+Thumbs.db
